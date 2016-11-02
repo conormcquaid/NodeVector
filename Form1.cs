@@ -55,127 +55,127 @@ namespace NodeVector
             //nodes[10].addPull(10, 60, 60);
 
 
-            nodes[0].addPull(13.15, 354, 219);
-            nodes[1].addPull(20.35, 354, 219);
-            nodes[2].addPull(12.55, 354, 219);
-            nodes[10].addPull(26.85, 23, 218);
-            nodes[10].addPull(16.6, 2, 183);
-            nodes[12].addPull(27.25, 23, 218);
-            nodes[12].addPull(22.9, 2, 183);
-            nodes[12].addPull(50.85, 30, 182);
-            nodes[13].addPull(70.1, 121, 216);
-            nodes[13].addPull(239.45, 130, 178);
-            nodes[13].addPull(22.95, 23, 218);
-            nodes[13].addPull(55.95, 29, 145);
-            nodes[13].addPull(58.75, 30, 182);
-            nodes[13].addPull(101.75, 88, 168);
-            nodes[13].addPull(70, 91, 218);
-            nodes[14].addPull(68.8, 121, 216);
-            nodes[14].addPull(256.6, 130, 178);
-            nodes[14].addPull(82.05, 88, 168);
-            nodes[14].addPull(55.45, 91, 218);
-            nodes[15].addPull(61.55, 121, 216);
-            nodes[15].addPull(224.25, 130, 178);
-            nodes[15].addPull(96.85, 172, 170);
-            nodes[15].addPull(95.55, 180, 220);
-            nodes[15].addPull(56.4, 215, 219);
-            nodes[16].addPull(99.95, 172, 170);
-            nodes[16].addPull(99.5, 180, 220);
-            nodes[16].addPull(70, 215, 219);
-            nodes[16].addPull(124.7, 236, 187);
-            nodes[17].addPull(84, 180, 220);
-            nodes[17].addPull(74.95, 215, 219);
-            nodes[17].addPull(154.4, 236, 187);
-            nodes[18].addPull(64.95, 215, 219);
-            nodes[18].addPull(157.6, 236, 187);
-            nodes[18].addPull(46.35, 353, 171);
-            nodes[18].addPull(13.95, 354, 219);
-            nodes[19].addPull(123.1, 236, 187);
-            nodes[19].addPull(40.6, 348, 126);
-            nodes[19].addPull(64.75, 353, 171);
-            nodes[19].addPull(20.7, 354, 219);
-            nodes[20].addPull(43.25, 348, 126);
-            nodes[20].addPull(76.35, 353, 171);
-            nodes[20].addPull(31.55, 354, 219);
-            nodes[21].addPull(26.9, 0, 124);
-            nodes[21].addPull(54.25, 121, 216);
-            nodes[21].addPull(29.5, 23, 218);
-            nodes[21].addPull(69.3, 29, 145);
-            nodes[21].addPull(24.3, 2, 183);
-            nodes[21].addPull(71.7, 30, 182);
-            nodes[21].addPull(97.9, 88, 168);
-            nodes[21].addPull(61, 91, 218);
-            nodes[22].addPull(29.25, 0, 124);
-            nodes[22].addPull(35.35, 23, 218);
-            nodes[22].addPull(68.7, 29, 145);
-            nodes[22].addPull(29.15, 2, 183);
-            nodes[22].addPull(74.3, 30, 182);
-            nodes[23].addPull(31.35, 0, 124);
-            nodes[23].addPull(25.05, 23, 218);
-            nodes[23].addPull(63.3, 29, 145);
-            nodes[23].addPull(25, 2, 183);
-            nodes[23].addPull(55.55, 30, 182);
-            nodes[24].addPull(42.35, 0, 124);
-            nodes[24].addPull(37.7, 0, 81);
-            nodes[24].addPull(35, 23, 218);
-            nodes[24].addPull(93.45, 29, 145);
-            nodes[24].addPull(30.9, 2, 183);
-            nodes[24].addPull(85.5, 30, 182);
-            nodes[24].addPull(61.2, 31, 115);
-            nodes[24].addPull(18.35, 38, 81);
-            nodes[24].addPull(87.1, 88, 168);
-            nodes[24].addPull(48.9, 91, 218);
-            nodes[25].addPull(37, 0, 124);
-            nodes[25].addPull(33.9, 0, 81);
-            nodes[25].addPull(23.5, 23, 218);
-            nodes[25].addPull(67.15, 29, 145);
-            nodes[25].addPull(21.05, 2, 183);
-            nodes[25].addPull(51.9, 30, 182);
-            nodes[25].addPull(49.7, 31, 115);
-            nodes[26].addPull(48.5, 0, 124);
-            nodes[26].addPull(18.9, 0, 37);
-            nodes[26].addPull(48.9, 0, 81);
-            nodes[26].addPull(31.1, 23, 218);
-            nodes[26].addPull(100.8, 29, 145);
-            nodes[26].addPull(30.55, 2, 183);
-            nodes[26].addPull(77.95, 30, 182);
-            nodes[26].addPull(75.45, 31, 115);
-            nodes[26].addPull(23.4, 38, 81);
-            nodes[26].addPull(43.8, 40, 48);
-            nodes[26].addPull(21.1, 63, 32);
-            nodes[26].addPull(38.3, 76, 82);
-            nodes[26].addPull(82.4, 86, 126);
-            nodes[26].addPull(90.8, 88, 168);
-            nodes[26].addPull(47.5, 91, 218);
-            nodes[27].addPull(40.9, 0, 124);
-            nodes[27].addPull(19.35, 0, 37);
-            nodes[27].addPull(45.5, 0, 81);
-            nodes[27].addPull(21.6, 23, 218);
-            nodes[27].addPull(63.55, 29, 145);
-            nodes[27].addPull(17.95, 2, 183);
-            nodes[27].addPull(54.9, 31, 115);
-            nodes[27].addPull(19.15, 38, 81);
-            nodes[27].addPull(36.4, 40, 48);
-            nodes[28].addPull(46.5, 0, 124);
-            nodes[28].addPull(23.1, 0, 37);
-            nodes[28].addPull(56.6, 0, 81);
-            nodes[28].addPull(24.75, 23, 218);
-            nodes[28].addPull(89.75, 29, 145);
-            nodes[28].addPull(24, 2, 183);
-            nodes[28].addPull(68.45, 30, 182);
-            nodes[28].addPull(74.8, 31, 115);
-            nodes[28].addPull(27.2, 38, 81);
-            nodes[28].addPull(53.95, 40, 48);
-            nodes[28].addPull(25.7, 63, 32);
-            nodes[28].addPull(43.25, 76, 82);
-            nodes[28].addPull(84.25, 86, 126);
-            nodes[28].addPull(84.15, 88, 168);
-            nodes[29].addPull(29.4, 0, 124);
-            nodes[29].addPull(22.55, 0, 37);
-            nodes[29].addPull(43.3, 0, 81);
-            nodes[29].addPull(18.35, 38, 81);
-            nodes[29].addPull(40.95, 40, 48);
-            nodes[29].addPull(19.9, 63, 32);
+            //nodes[0].addPull(13.15, 354, 219);
+            //nodes[1].addPull(20.35, 354, 219);
+            //nodes[2].addPull(12.55, 354, 219);
+            //nodes[10].addPull(26.85, 23, 218);
+            //nodes[10].addPull(16.6, 2, 183);
+            //nodes[12].addPull(27.25, 23, 218);
+            //nodes[12].addPull(22.9, 2, 183);
+            //nodes[12].addPull(50.85, 30, 182);
+            //nodes[13].addPull(70.1, 121, 216);
+            //nodes[13].addPull(239.45, 130, 178);
+            //nodes[13].addPull(22.95, 23, 218);
+            //nodes[13].addPull(55.95, 29, 145);
+            //nodes[13].addPull(58.75, 30, 182);
+            //nodes[13].addPull(101.75, 88, 168);
+            //nodes[13].addPull(70, 91, 218);
+            //nodes[14].addPull(68.8, 121, 216);
+            //nodes[14].addPull(256.6, 130, 178);
+            //nodes[14].addPull(82.05, 88, 168);
+            //nodes[14].addPull(55.45, 91, 218);
+            //nodes[15].addPull(61.55, 121, 216);
+            //nodes[15].addPull(224.25, 130, 178);
+            //nodes[15].addPull(96.85, 172, 170);
+            //nodes[15].addPull(95.55, 180, 220);
+            //nodes[15].addPull(56.4, 215, 219);
+            //nodes[16].addPull(99.95, 172, 170);
+            //nodes[16].addPull(99.5, 180, 220);
+            //nodes[16].addPull(70, 215, 219);
+            //nodes[16].addPull(124.7, 236, 187);
+            //nodes[17].addPull(84, 180, 220);
+            //nodes[17].addPull(74.95, 215, 219);
+            //nodes[17].addPull(154.4, 236, 187);
+            //nodes[18].addPull(64.95, 215, 219);
+            //nodes[18].addPull(157.6, 236, 187);
+            //nodes[18].addPull(46.35, 353, 171);
+            //nodes[18].addPull(13.95, 354, 219);
+            //nodes[19].addPull(123.1, 236, 187);
+            //nodes[19].addPull(40.6, 348, 126);
+            //nodes[19].addPull(64.75, 353, 171);
+            //nodes[19].addPull(20.7, 354, 219);
+            //nodes[20].addPull(43.25, 348, 126);
+            //nodes[20].addPull(76.35, 353, 171);
+            //nodes[20].addPull(31.55, 354, 219);
+            //nodes[21].addPull(26.9, 0, 124);
+            //nodes[21].addPull(54.25, 121, 216);
+            //nodes[21].addPull(29.5, 23, 218);
+            //nodes[21].addPull(69.3, 29, 145);
+            //nodes[21].addPull(24.3, 2, 183);
+            //nodes[21].addPull(71.7, 30, 182);
+            //nodes[21].addPull(97.9, 88, 168);
+            //nodes[21].addPull(61, 91, 218);
+            //nodes[22].addPull(29.25, 0, 124);
+            //nodes[22].addPull(35.35, 23, 218);
+            //nodes[22].addPull(68.7, 29, 145);
+            //nodes[22].addPull(29.15, 2, 183);
+            //nodes[22].addPull(74.3, 30, 182);
+            //nodes[23].addPull(31.35, 0, 124);
+            //nodes[23].addPull(25.05, 23, 218);
+            //nodes[23].addPull(63.3, 29, 145);
+            //nodes[23].addPull(25, 2, 183);
+            //nodes[23].addPull(55.55, 30, 182);
+            //nodes[24].addPull(42.35, 0, 124);
+            //nodes[24].addPull(37.7, 0, 81);
+            //nodes[24].addPull(35, 23, 218);
+            //nodes[24].addPull(93.45, 29, 145);
+            //nodes[24].addPull(30.9, 2, 183);
+            //nodes[24].addPull(85.5, 30, 182);
+            //nodes[24].addPull(61.2, 31, 115);
+            //nodes[24].addPull(18.35, 38, 81);
+            //nodes[24].addPull(87.1, 88, 168);
+            //nodes[24].addPull(48.9, 91, 218);
+            //nodes[25].addPull(37, 0, 124);
+            //nodes[25].addPull(33.9, 0, 81);
+            //nodes[25].addPull(23.5, 23, 218);
+            //nodes[25].addPull(67.15, 29, 145);
+            //nodes[25].addPull(21.05, 2, 183);
+            //nodes[25].addPull(51.9, 30, 182);
+            //nodes[25].addPull(49.7, 31, 115);
+            //nodes[26].addPull(48.5, 0, 124);
+            //nodes[26].addPull(18.9, 0, 37);
+            //nodes[26].addPull(48.9, 0, 81);
+            //nodes[26].addPull(31.1, 23, 218);
+            //nodes[26].addPull(100.8, 29, 145);
+            //nodes[26].addPull(30.55, 2, 183);
+            //nodes[26].addPull(77.95, 30, 182);
+            //nodes[26].addPull(75.45, 31, 115);
+            //nodes[26].addPull(23.4, 38, 81);
+            //nodes[26].addPull(43.8, 40, 48);
+            //nodes[26].addPull(21.1, 63, 32);
+            //nodes[26].addPull(38.3, 76, 82);
+            //nodes[26].addPull(82.4, 86, 126);
+            //nodes[26].addPull(90.8, 88, 168);
+            //nodes[26].addPull(47.5, 91, 218);
+            //nodes[27].addPull(40.9, 0, 124);
+            //nodes[27].addPull(19.35, 0, 37);
+            //nodes[27].addPull(45.5, 0, 81);
+            //nodes[27].addPull(21.6, 23, 218);
+            //nodes[27].addPull(63.55, 29, 145);
+            //nodes[27].addPull(17.95, 2, 183);
+            //nodes[27].addPull(54.9, 31, 115);
+            //nodes[27].addPull(19.15, 38, 81);
+            //nodes[27].addPull(36.4, 40, 48);
+            //nodes[28].addPull(46.5, 0, 124);
+            //nodes[28].addPull(23.1, 0, 37);
+            //nodes[28].addPull(56.6, 0, 81);
+            //nodes[28].addPull(24.75, 23, 218);
+            //nodes[28].addPull(89.75, 29, 145);
+            //nodes[28].addPull(24, 2, 183);
+            //nodes[28].addPull(68.45, 30, 182);
+            //nodes[28].addPull(74.8, 31, 115);
+            //nodes[28].addPull(27.2, 38, 81);
+            //nodes[28].addPull(53.95, 40, 48);
+            //nodes[28].addPull(25.7, 63, 32);
+            //nodes[28].addPull(43.25, 76, 82);
+            //nodes[28].addPull(84.25, 86, 126);
+            //nodes[28].addPull(84.15, 88, 168);
+            //nodes[29].addPull(29.4, 0, 124);
+            //nodes[29].addPull(22.55, 0, 37);
+            //nodes[29].addPull(43.3, 0, 81);
+            //nodes[29].addPull(18.35, 38, 81);
+            //nodes[29].addPull(40.95, 40, 48);
+            //nodes[29].addPull(19.9, 63, 32);
             nodes[30].addPull(44.65, 0, 124);
             nodes[30].addPull(30.25, 0, 37);
             nodes[30].addPull(57.5, 0, 81);
@@ -770,24 +770,44 @@ namespace NodeVector
 
 
 
-            // 'World' coordinates are (200,360)
+            // 'World' coordinates are (220,360)
             // g.FillEllipse(b,x,y,w,h);
             // panel1.Height;
             SolidBrush b = new SolidBrush(Color.Black);
             Rectangle r = new Rectangle();
             foreach(Node n in nodes)
             {
+                if (n.pulls.Count == 0) continue;
+
                 r.X = (n.x * panel1.Width) / 360;
-                r.Y = (n.y * panel1.Height) / 200;
+                r.Y = (n.y * panel1.Height) / 220;
                 r.Height = 5;
                 r.Width = 5;
                 g.FillEllipse(b, r);
 
+
+
+                foreach(pull p in n.pulls)
+                {
+
+                    g.DrawLine(System.Drawing.Pens.DarkOrange, 
+                        (n.x * panel1.Width) / 360,
+                        (n.y * panel1.Height) / 220,
+                        (p.x * panel1.Width) / 360,
+                        (p.y * panel1.Height) / 220
+                        );
+
+                    g.DrawEllipse(System.Drawing.Pens.DarkViolet,
+                        (p.x * panel1.Width) / 360 - 3,
+                        (p.y * panel1.Height) / 220 - 3,
+                        6,6
+                        );
+                }
+
                 g.DrawString(string.Format("{0}", n.label),
                 new Font("Arial", 10), System.Drawing.Brushes.Blue, r.X, r.Y);
-
             }
-            g.FillEllipse(b, 50, 50, 3, 3);
+            //g.FillEllipse(b, 50, 50, 3, 3);
 
         }
 
@@ -823,8 +843,13 @@ namespace NodeVector
 
                 textBox1.AppendText(string.Format("{0:N3},{1:N3}", n.x, n.y) + Environment.NewLine);
 
-                this.Refresh();
+                
             }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+this.Refresh();
         }
     }
 }
