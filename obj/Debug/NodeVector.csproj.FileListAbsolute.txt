@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\NodeVector\NodeVector\bin\Debug\NodeVector.exe.config
+d:\documents\visual studio 2015\Projects\NodeVector\NodeVector\bin\Debug\NodeVector.exe
+d:\documents\visual studio 2015\Projects\NodeVector\NodeVector\bin\Debug\NodeVector.pdb
+d:\documents\visual studio 2015\Projects\NodeVector\NodeVector\obj\Debug\NodeVector.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\NodeVector\NodeVector\obj\Debug\NodeVector.Form1.resources
+d:\documents\visual studio 2015\Projects\NodeVector\NodeVector\obj\Debug\NodeVector.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\NodeVector\NodeVector\obj\Debug\NodeVector.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\NodeVector\NodeVector\obj\Debug\NodeVector.exe
+d:\documents\visual studio 2015\Projects\NodeVector\NodeVector\obj\Debug\NodeVector.pdb
